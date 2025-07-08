@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'PenelopeAnne-A65m';
+    src: url("@assets/fonts/PenelopeAnne-A65m.ttf");
+    src: local("PenelopeAnne-A65m"),
+        url("@assets/fonts/PenelopeAnne-A65m.ttf") format("truetype")
+}

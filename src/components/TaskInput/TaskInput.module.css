@@ -1,0 +1,26 @@
+.task {
+    display: flex;
+    justify-content: center;
+}
+
+.input {
+    width: 350px;
+    height: 50px;
+    padding: 5px 10px;
+    box-sizing: border-box;
+    font-family: 'PenelopeAnne-A65m', monospace;
+    font-size: 28px;
+}
+
+.button_add {
+    width: 100px;
+    height: 50px;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 20px;
+    font-family: 'PenelopeAnne-A65m', monospace;
+}
+
+.button_add:hover {
+    background-color: #7eb97e;
+}
